@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+# NAVIGATION
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
+# COMMON DIRECTORIES
+alias dl="cd ~/Downloads"
+alias dt="cd ~/Desktop"
+alias dc="cd ~/Documents"
+alias p="cd ~/MacPro_All_Sync/Project_2020"
+alias home="cd ~"
+
+# GIT
+alias g="git"
+alias gs="git status"
+alias gd="git diff"
+alias gb="git branch"
+alias gm="git checkout master"
+
+# LIST
+alias l="ls -ltr"
+alias la="ls -all"
